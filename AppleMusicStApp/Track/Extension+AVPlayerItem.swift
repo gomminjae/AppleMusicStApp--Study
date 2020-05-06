@@ -78,6 +78,7 @@ extension AVMetadataItem {
 
 extension AVPlayer {
     var isPlaying: Bool {
+        //playerItem check
         guard self.currentItem != nil else { return false }
         return self.rate != 0
     }
