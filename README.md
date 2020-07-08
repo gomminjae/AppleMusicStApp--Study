@@ -5,7 +5,11 @@ FastCampust ios 개발
 MVC, 싱글톤 
 
 # 공부한것들 
-AVFoundation, CollectionViewReusableView, CollectionViewHeader,ViewController들의 데이터 전달 
+- AVFoundation 
+- CollectionViewReusableView
+- CollectionViewHeader
+- ViewController들의 데이터 전달 
+- slider의 사용법 
 
 
 ### initial screen
